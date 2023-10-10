@@ -1,4 +1,7 @@
-# **Lab Report 1**
+# **Lab Report 1**  
+
+*KEVIN WILLIAM PEOPLES*  
+*A17465911*
 
 Three basic filesystem commands—'cd', 'ls', and 'cat'—were the focus of today's lab.  
 In a Unix-based operating system, these commands are crucial for browsing and working with directories and files.  
