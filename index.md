@@ -53,7 +53,7 @@ Output: Contents of file.txt
  ***(c) Command with a path to a file as an argument.***   
 ```$ cat /path/to/directory```  
 Working Directory: /path/to/directory  
-Output: Erro! because Is a directory  
+Output: Error! because Is a directory  
 **Explanation**: A file path, not a directory path, is what the cat program requires as an argument. An error occurs when attempting to display the contents of a directory.  
 
 **Conclusion**  
